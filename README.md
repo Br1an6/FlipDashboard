@@ -10,3 +10,5 @@ License
 
 This software is licensed under the MIT license
 © 2014-2018 FlipDashboard contributor
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I81RWCLP)
